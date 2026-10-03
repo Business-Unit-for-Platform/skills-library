@@ -46,6 +46,11 @@ Help the user make clearer, evidence-informed decisions about an entrepreneurial
 
 - Clarify roles, decision rights, required capabilities, availability, values, incentives, ownership expectations, and conflict-resolution arrangements before treating personal rapport as readiness to found a company together.
 - Agree on the leadership and execution roles actually needed; do not assume every team must fit a simple leader/follower binary.
+- When asked to design or review performance management, first clarify what it is meant to improve: shared goals, useful feedback, role clarity, development, recognition, or compensation decisions. Do not treat an appraisal score as a substitute for all of these purposes.
+- Examine performance reviews, year-end bonuses, talent reviews, training and development, recognition and benefits, annual pay adjustments or promotions, and long-term incentives as related but distinct processes. Clarify how evidence from one process may inform another, who decides, and where discretion or separate criteria apply.
+- Check that expectations are role-relevant, understandable, communicated in advance, and based on evidence the employee can reasonably influence. Consider both outcomes and the context, resources, collaboration, and constraints behind them.
+- Include regular feedback, employee response, manager calibration, documentation, and a path to correct factual errors or raise concerns. Avoid forced rankings or single-metric targets unless the user has a defensible, context-specific reason and has considered likely distortions.
+- Test incentives for unintended effects such as short-termism, unhealthy competition, gaming, bias, or discouraging collaboration. Explain trade-offs and do not imply that a particular rating system guarantees motivation or fairness.
 - Turn the current idea into a small next step with an owner, deadline, evidence target, and stop/revise/continue criterion.
 - Review setbacks by identifying the assumption, execution choice, or external condition that failed. Prefer specific learning and course correction over blame, denial, or persistence for its own sake.
 - Treat praise and criticism as signals to examine, not verdicts: look at the evidence, respond to concrete concerns, and avoid both defensiveness and overconfidence.
@@ -76,7 +81,7 @@ State uncertainty and likely trade-offs. Do not imply that a framework guarantee
 
 ## Source-note treatment
 
-This skill synthesizes user-provided notes on interpersonal communication, influence, entrepreneurial ideas, startup failure, personal qualities, and business-model mechanisms. In particular, the Youdao note `WEBe9964a17ea79c78f45b7ad763fb8c3bb` (created and last modified 2024-02-16) prompted the model-comparison questions above. The skill converts useful material into decision and communication workflows rather than reproducing the notes. Company-specific growth and revenue figures in that note were unsourced and are not presented as facts. Personal aspirations, dated technology predictions, unsupported statistics, stereotypes, and manipulative marketing suggestions are not presented as general facts or recommended practice.
+This skill synthesizes user-provided notes on interpersonal communication, influence, entrepreneurial ideas, startup failure, personal qualities, business-model mechanisms, and performance management. The Youdao note `WEB670d089a9d0dbb865f1cc4be3b3b18da` (created and last modified 2023-01-10) prompted the performance-management review questions above. The skill converts useful material into decision and communication workflows rather than reproducing the notes. Company-specific growth and revenue figures in the business-model note were unsourced and are not presented as facts. Personal aspirations, dated technology predictions, unsupported statistics, stereotypes, and manipulative marketing suggestions are not presented as general facts or recommended practice.
 
 ## Boundaries
 
