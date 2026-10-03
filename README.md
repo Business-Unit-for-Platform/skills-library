@@ -4,7 +4,7 @@ This repository contains reusable Agent skills and playbooks intended to work ac
 
 ## Skills
 
-- [Interpersonal Communication Coach](skills/interpersonal-communication-coach/SKILL.md): prepare, improve, and rehearse respectful conversations.
+- [Startup and Communication Coach](skills/startup-and-communication-coach/SKILL.md): explore venture ideas, validate customer problems, assess business assumptions, and prepare respectful conversations.
 
 ## Adding a skill
 
