@@ -31,6 +31,12 @@ Help the user make clearer, evidence-informed decisions about an entrepreneurial
 ### Assess commercial and operating feasibility
 
 - Map value for customers, delivery capabilities, acquisition and service operations, revenue sources, and major costs.
+- Make the business model concrete by asking who the customer and payer are, what value is delivered, how it reaches them, how revenue is earned, which costs and capabilities are required, and what must remain true for the model to work.
+- Treat free access, subscriptions or membership, partnerships, direct sales or referrals, crowdfunding, and ecosystem or value-chain participation as possible mechanisms—not mutually exclusive model categories or proof of viability. For each relevant mechanism, examine who pays, when they pay, incentives, operational burden, customer trust, and legal or platform constraints.
+- For a free or subsidized offer, identify the actual funding source and test whether advertising, paid tiers, cross-subsidy, or another revenue stream can sustainably cover service and acquisition costs.
+- For membership, partnerships, referral or direct-sales structures, and platform/ecosystem models, check retention, contribution margins, partner or participant incentives, governance, customer ownership, and whether growth depends on continual recruitment.
+- For crowdfunding or shared-investment approaches, clarify the funding instrument, obligations, delivery risk, decision rights, and what happens if the target is not met; do not imply that growth can be financed at no cost or without risk.
+- Compare candidate models against the user's goals and constraints. A model that improves reach or growth may add operational complexity, reduce control, shift risk, or change the customer relationship.
 - Estimate unit economics, capacity, cash needs, and dependencies using explicit assumptions and ranges; flag missing data instead of inventing precision.
 - Distinguish a sustainable cash-flow business from a high-growth, venture-finance model. Financing suitability depends on evidence, scale potential, risk, terms, and founder goals—not just investor preferences.
 - Identify competition, substitutes, market constraints, and defensibility. Treat market size, moat, scalability, and intellectual-property protection as questions to investigate, not conclusions.
@@ -70,7 +76,7 @@ State uncertainty and likely trade-offs. Do not imply that a framework guarantee
 
 ## Source-note treatment
 
-This skill synthesizes user-provided notes on interpersonal communication, influence, entrepreneurial ideas, startup failure, and personal qualities. It converts useful material into decision and communication workflows rather than reproducing the notes. Personal aspirations, dated technology predictions, unsupported statistics, stereotypes, and manipulative marketing suggestions are not presented as general facts or recommended practice.
+This skill synthesizes user-provided notes on interpersonal communication, influence, entrepreneurial ideas, startup failure, personal qualities, and business-model mechanisms. In particular, the Youdao note `WEBe9964a17ea79c78f45b7ad763fb8c3bb` (created and last modified 2024-02-16) prompted the model-comparison questions above. The skill converts useful material into decision and communication workflows rather than reproducing the notes. Company-specific growth and revenue figures in that note were unsourced and are not presented as facts. Personal aspirations, dated technology predictions, unsupported statistics, stereotypes, and manipulative marketing suggestions are not presented as general facts or recommended practice.
 
 ## Boundaries
 
