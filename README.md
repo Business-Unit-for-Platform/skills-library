@@ -6,6 +6,7 @@ This repository contains reusable Agent skills and playbooks intended to work ac
 
 - [Startup and Communication Coach](skills/startup-and-communication-coach/SKILL.md): explore venture ideas, validate customer problems, assess business assumptions, and prepare respectful conversations.
 - [Resume and Interview Coach](skills/resume-and-interview-coach/SKILL.md): tailor truthful resumes to specific roles and prepare focused interview practice.
+- [Presentation Design Coach](skills/presentation-design-coach/SKILL.md): plan, design, and review clear presentations using alignment, contrast, proximity, consistency, evidence, accessibility, and licensing checks.
 
 ## Adding a skill
 
